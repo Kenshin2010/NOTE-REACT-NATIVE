@@ -1,4 +1,5 @@
 # Note-ReactNative
+- Video tutorial : https://www.youtube.com/watch?v=kNHuLOXR5T0&list=PLWBrqglnjNl31S91FFE63DtuRc9v9LSGl
 - React-native for beginner
   npm install --> init lib for project
 
